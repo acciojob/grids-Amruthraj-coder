@@ -8,19 +8,19 @@
             height:200px;
             border:1px dotted black
         }
-        .e1{
+        .r1c1{
             background-color:rgb(0,128,129) ;
         }
-        .e2{
+        .r1c2{
             background-color:rgb(215,191,215) ;
         }
         .container > .row{
             padding: 5px 5px;
         }
-        .e3{
+        .r2c1{
             background-color:rgb(41,0,0) ;
         }
-        .e4{
+        .r2c2{
             background-color: rgb(63,224,208);
         }
         .cc{
@@ -31,11 +31,11 @@
         }
 
 
-        .e5{
+        .r3c1{
             background-color: rgb(238,130,239);
         }
 
-        .e6{
+        .r3c2{
             background-color: rgb(154,205,50);
         }
         .row3{
